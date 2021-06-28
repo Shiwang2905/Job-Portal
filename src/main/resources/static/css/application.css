@@ -1,0 +1,76 @@
+#companyname{
+    background-color: rgb(105, 27, 27);
+    color: white;
+    padding: 20px;
+    margin: -8px -8px 0px -8px;
+    position: sticky;
+    top: 0;
+    font-size: 25px;
+    
+}
+
+.applyjob{
+	margin: 20px 40px 2px 40px;
+}
+
+.inputform{
+	border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+	margin-right: 60%;	
+}
+
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=password], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=email]{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 50;
+  background-color: rgb(105, 27, 27);
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input{
+	
+  border: 1px solid grey;
+  border-radius: 5px;
+  padding: 5px;
+ 	width: 200px;	
+ }
+ 
+ table{
+ 	margin-top: -200px;
+ }
+  
+  
